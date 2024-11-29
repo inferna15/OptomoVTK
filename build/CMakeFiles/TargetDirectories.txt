@@ -1,0 +1,5 @@
+/home/inferna/Masaüstü/Projeler/OptomoVTK/build/CMakeFiles/edit_cache.dir
+/home/inferna/Masaüstü/Projeler/OptomoVTK/build/CMakeFiles/rebuild_cache.dir
+/home/inferna/Masaüstü/Projeler/OptomoVTK/build/src/CMakeFiles/OptomoVTK.dir
+/home/inferna/Masaüstü/Projeler/OptomoVTK/build/src/CMakeFiles/edit_cache.dir
+/home/inferna/Masaüstü/Projeler/OptomoVTK/build/src/CMakeFiles/rebuild_cache.dir
